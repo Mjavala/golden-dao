@@ -6,7 +6,7 @@ order: 3
 
 # Staking GOLD
 
-Staking GOLD is the basis of the whole protocol. We believe that in the spirit of decentralization and our objectives, anyone should be allowed to submit a proposal.
+Staking GOLD is the basis of the whole protocol. We believe that in the spirit of decentralization and our objectives, anyone should be allowed to submit a proposal. In the same vein, anyone with GOLD will be allowed to stake, there is no minimum.
 
 Upon passing, a proposal's progenitor (or investee) must deposit the agreed upon percentage of their project to the GOLDEN DAO. This percentage is split in the following ways:
 
